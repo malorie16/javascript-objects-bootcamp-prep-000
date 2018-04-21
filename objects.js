@@ -1,0 +1,1 @@
+var playlist = {beyonce: 'diva'}
